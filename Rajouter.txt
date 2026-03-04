@@ -8,7 +8,7 @@ A Propos :
 
 
 Pages tarrif :
-❌  - chager le tarrifs
+✅  - chager le tarrifs
 
 
 Changer le menu : 
@@ -28,5 +28,5 @@ Page contacter moi :
 
 
 Refaire contenu :
-  - du referencement
-  - et parler des etabliseement specialiser 
+❌  - du referencement
+❌  - et parler des etabliseement specialiser 
