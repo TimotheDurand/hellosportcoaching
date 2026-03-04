@@ -1,30 +1,30 @@
 A Propos :
-  - Caoch sportif a domicile, et andernos.
-  - -50% sur vos seances
-  - Enlever la sitation et remplacer par remtter du mouvement dans votre quotidiens.
-  - icone clicable qui redirige vers dautre pages
-  - sport en etablissement specialiser changer par icone fauteuil roulant
-  - changer le a propos
+❌  - Caoch sportif a domicile, et andernos.
+❌  - -50% sur vos seances
+❌  - Enlever la sitation et remplacer par remtter du mouvement dans votre quotidiens.
+❌  - icone clicable qui redirige vers dautre pages
+❌  - sport en etablissement specialiser changer par icone fauteuil roulant
+❌  - changer le a propos
 
 
 Pages tarrif :
-  - chager le tarrifs
+❌  - chager le tarrifs
 
 
 Changer le menu : 
-  - a propos 
-  - coaching a domicile 
-  - activiter physique en etablissement specialiser 
-  - sport en entreprise
-  - enlver marche nordique et prestation ( refassaunage )
+❌  - a propos 
+❌  - coaching a domicile 
+❌  - activiter physique en etablissement specialiser 
+❌  - sport en entreprise
+❌  - enlver marche nordique et prestation ( refassaunage )
 
 
 Refaire les nouvelles page :
-  - voir mail sur le word
+❌  - voir mail sur le word
 
 
 Page contacter moi :
-  - carte andernos
+❌  - carte andernos
 
 
 Refaire contenu :
