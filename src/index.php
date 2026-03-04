@@ -8,7 +8,7 @@
             <aside class="acide-1">
                 <img class="logo2" src="Image/logo-2.png" alt="logo2">
                 <h1 class="h1-1">Elodie Colet</h1>
-                <h2 class="h2-2">Coach sportif, conseils nutrition<br>et bien-être<br>06 07 57 05 17</h2>
+                <h2 class="h2-2">Coach sportif, à domicile<br>Conseils nutrition et bien-être<br>Basée à Andernos les bains<br>06 07 57 05 17</h2>
             </aside>
             <figure class="figure-1">
                 <div class="slideshow-container">
