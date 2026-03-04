@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<?php include("./addons/header.php"); ?>
 
 <?php include("menu-mobile.php"); ?>
 <main>
@@ -81,4 +81,4 @@
     }
 </script>
 
-<?php include("footer.php"); ?>
+<?php include("./addons/footer.php"); ?>
