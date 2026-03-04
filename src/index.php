@@ -56,7 +56,16 @@
         <article class="article-3">
             <figure class="figure-3">
                 <h1 class="h1-3">Qui je suis</h1>
-                <p class="p-3">Hello! Moi c'est Elodie, 37 ans, maman de deux enfants. Du dynamisme? J'en ai à revendre. La motivation? à 100%.<br><br>De l'optimisme?<br><br>Toujours!<br><br>Nous passons une grande partie de notre vie au travail, autant s'y éclater! C'est à 32 ans que j'ai repris le chemin des études et que j'ai obtenu mon BPJEPS "Activités de la Forme option Haltérophilie, Musculation , et Cours Collectifs", complété par une formation de pilâtes et coach en marche nordique.<br><br>L'écologie et la santé sont pour moi des priorités étroitement liées. Convaincue que la santé de notre planète passe d'abord par celle de ses habitants, je prends mon rôle d'éducateur sportif très à coeur, afin d'oeuvrer au mieux être de notre monde. <br><br>Le sport permet l'harmonie du corps et de l'esprit, combiné à une alimentation plus responsable et consciente, nous ne pouvons qu'avancer dans la bonne direction. <br><br>Aventurière dans l'âme, aimant relever les défis, c'est à Kourou en Amazonie que j'ai posé mes valises. Sans cesse à la recherche de nouvelles techniques, matériels et innovations pour vous surprendre, j'adore casser la routine. <br><br>Embarcation imminente!<br><br></p>
+                <p class="p-3">Hello! Moi c'est Elodie, 39 ans.<br>
+                    <br>Aventurière dans l'âme, je reviens de Kourou en Amazonie où j'ai passé 6 ans, pour vous transmettre motivation, énergie et ondes positives.<br>
+                    <br>De l'optimisme?<br>
+                    <br>Toujours!<br>
+                    <br>Nous passons une grande partie de notre vie au travail, autant s'y éclater! C'est à 32 ans que j'ai repris le chemin des études et que j'ai obtenu mon BPJEPS "Activités de la Forme option Haltérophilie, Musculation , et Cours Collectifs", complété par une formation de pilâtes et coach en marche nordique.<br>
+                    <br>L'écologie et la santé sont pour moi des priorités étroitement liées. Convaincue que la santé de notre planète passe d'abord par celle de ses habitants, je prends mon rôle d'éducateur sportif très à coeur, afin d'oeuvrer au mieux être de notre monde. <br>
+                    <br>Le sport permet l'harmonie du corps et de l'esprit, combiné à une alimentation plus responsable et consciente, nous ne pouvons qu'avancer dans la bonne direction. <br>
+                    <br>Aventurière dans l'âme, aimant relever les défis, c'est à Kourou en Amazonie que j'ai posé mes valises. Sans cesse à la recherche de nouvelles techniques, matériels et innovations pour vous surprendre, j'adore casser la routine. <br>
+                    <br>Embarcation imminente!<br>
+                    <br></p>
             </figure>
         </article>
     </section>
