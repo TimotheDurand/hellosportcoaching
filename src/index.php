@@ -75,7 +75,8 @@
                     <br>Le sport permet l'harmonie du corps et de l'esprit, combiné à une alimentation plus responsable et consciente, nous ne pouvons qu'avancer dans la bonne direction. <br>
                     <br>Aventurière dans l'âme, aimant relever les défis, c'est à Kourou en Amazonie que j'ai posé mes valises. Sans cesse à la recherche de nouvelles techniques, matériels et innovations pour vous surprendre, j'adore casser la routine. <br>
                     <br>Embarcation imminente!<br>
-                    <br></p>
+                    <br>
+                </p>
             </figure>
         </article>
     </section>
