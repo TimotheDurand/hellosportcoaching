@@ -12,7 +12,7 @@
             </article>
             <article class="article-tarifs article-tarifs-2">
                 <h2 class="h2-tarifs">Caoching sportif<br>en entreprise</h2>
-                <h3 class="h3-tarifs">80€ /heure</h3>
+                <h3 class="h3-tarifs">120€ /heure</h3>
             </article>
             <article class="article-tarifs article-tarifs-3">
                 <h2 class="h2-tarifs">Marche<br>nordique</h2>
