@@ -4,7 +4,7 @@ A Propos :
 ❌  - Enlever la sitation et remplacer par remtter du mouvement dans votre quotidiens.
 ❌  - icone clicable qui redirige vers dautre pages
 ❌  - sport en etablissement specialiser changer par icone fauteuil roulant
-❌  - changer le a propos
+✅  - changer le a propos
 
 
 Pages tarrif :
