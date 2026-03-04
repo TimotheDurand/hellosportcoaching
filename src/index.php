@@ -80,7 +80,7 @@
             </figure>
         </article>
     </section>
-    <?php include("section-3.php"); ?>
+    <?php include("./menus/section-3.php"); ?>
 </main>
 
 <script>
