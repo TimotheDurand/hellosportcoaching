@@ -1,9 +1,9 @@
 <?php include("./addons/header.php"); ?>
 
-<?php include("menu-mobile.php"); ?>
+<?php include("./menus/menu-mobile.php"); ?>
 <main>
     <section class="section-bg">
-        <?php include("menu.php"); ?>
+        <?php include("./menus/menu.php"); ?>
         <article class="article-1">
             <aside class="acide-1">
                 <img class="logo2" src="Image/logo-2.png" alt="logo2">
