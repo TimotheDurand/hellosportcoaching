@@ -142,8 +142,9 @@ main{
 }
 
 .h2-2{
- color: white;
- text-align: center;
+    color: white;
+    text-align: center;
+    line-height: 1.5em;
 }
 
 .figure-1 {
