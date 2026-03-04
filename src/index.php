@@ -8,7 +8,11 @@
             <aside class="acide-1">
                 <img class="logo2" src="Image/logo-2.png" alt="logo2">
                 <h1 class="h1-1">Elodie Colet</h1>
-                <h2 class="h2-2">Coach sportif, à domicile<br>Conseils nutrition et bien-être<br>Basée à Andernos les bains<br>06 07 57 05 17</h2>
+                <h2 class="h2-2">Coach sportif, à domicile
+                    <br>Conseils nutrition et bien-être
+                    <br>Basée à Andernos les bains
+                    <br>06 07 57 05 17
+                </h2>
             </aside>
             <figure class="figure-1">
                 <div class="slideshow-container">
@@ -29,12 +33,18 @@
                     </div>
                 </div>
             </figure>
-            <p class="p-1">« LA MOBILITÉ EST UNE PRIORITE. LA DOULEUR<br>N’EST PAS ACCEPTABLE. REPRENEZ LE CONTROLE ! »<br>Aurélien Broussal</p>
+            <p class="p-1">« LA MOBILITÉ EST UNE PRIORITE. LA DOULEUR
+                <br>N’EST PAS ACCEPTABLE. REPRENEZ LE CONTROLE ! »
+                <br>Aurélien Broussal
+            </p>
         </article>
         <article class="article-2">
             <figure class="figure-2">
                 <h1 class="h1-2">Mon Objectif</h1>
-                <p class="p-2">Que vous soyez sportif, moins sportif, homme ou femme, mon but est de parcourir ensemble un bout de chemin pour vous donner goût et coeur en ce que vous êtes et ce que vous faites.<br><br>Quelque soit votre objectif, il sera ma priorité. Nous établirons ensemble un programme personnalisé afin d'améliorer votre forme, votre santé, votre stress, votre alimentation. Gagnez du temps, le sport s'invite chez vous, je fournis le matériel.<br><br>Prêt à embarquer ?</p>
+                <p class="p-2">Que vous soyez sportif, moins sportif, homme ou femme, mon but est de parcourir ensemble un bout de chemin pour vous donner goût et coeur en ce que vous êtes et ce que vous faites.<br>
+                    <br>Quelque soit votre objectif, il sera ma priorité. Nous établirons ensemble un programme personnalisé afin d'améliorer votre forme, votre santé, votre stress, votre alimentation. Gagnez du temps, le sport s'invite chez vous, je fournis le matériel.<br>
+                    <br>Prêt à embarquer ?
+                </p>
                 <div class="div-1">
                     <div class="div-icon div-icon-1">
                         <img class="img-icon img-icon-1" src="Image/icon-1.png" alt="icon-1">
@@ -56,7 +66,7 @@
         <article class="article-3">
             <figure class="figure-3">
                 <h1 class="h1-3">Qui je suis</h1>
-                <p class="p-3">Hello! Moi c'est Elodie, 39 ans.<br>
+                <p class="p-3">Hello! Moi c'est Elodie, 39 ans.
                     <br>Aventurière dans l'âme, je reviens de Kourou en Amazonie où j'ai passé 6 ans, pour vous transmettre motivation, énergie et ondes positives.<br>
                     <br>De l'optimisme?<br>
                     <br>Toujours!<br>
