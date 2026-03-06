@@ -76,6 +76,7 @@
 <link rel="icon" href="Image/logo.ico" type="image/x-icon">
 
 <link rel="stylesheet" href="./styles/styles.css">
+<link rel="stylesheet" href="./styles/style-page-cad.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 <title>HelloSport</title>
