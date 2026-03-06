@@ -47,15 +47,15 @@
                 </p>
                 <div class="div-1">
                     <div class="div-icon div-icon-1">
-                        <img class="img-icon img-icon-1" src="Image/icon-1.png" alt="icon-1">
+                        <a href="coaching-a-domicile.php"><img class="img-icon img-icon-1" src="Image/icon-1.png" alt="icon-1"></a>
                         <h2 class="h2-3">coaching à domicile</h2>
                     </div>
                     <div class="div-icon div-icon-2">
-                        <img class="img-icon" src="Image/icon-2.png" alt="icon-2">
+                        <a href="cours-collectifs.php"><img class="img-icon" src="Image/icon-2.png" alt="icon-2"></a>
                         <h2 class="h2-3">cours collectifs</h2>
                     </div>
                     <div class="div-icon div-icon-3">
-                        <img class="img-icon" src="Image/icon-3.png" alt="icon-3">
+                        <a href="marche-nordique.php"><img class="img-icon" src="Image/icon-3.png" alt="icon-3"></a>
                         <h2 class="h2-3">marche nordique</h2>
                     </div>
                 </div>
