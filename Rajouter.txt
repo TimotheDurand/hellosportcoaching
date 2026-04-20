@@ -12,10 +12,10 @@ Pages tarrif :
 
 
 Changer le menu : 
-❌  - a propos 
-❌  - coaching a domicile 
+✅  - a propos 
+✅  - coaching a domicile 
 ❌  - activiter physique en etablissement specialiser 
-❌  - sport en entreprise
+✅  - sport en entreprise
 ❌  - enlver marche nordique et prestation ( refassaunage )
 
 
