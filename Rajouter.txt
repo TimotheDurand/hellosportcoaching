@@ -17,7 +17,7 @@ Changer le menu :
 ✅  - activiter physique en etablissement specialiser 
 ✅  - sport en entreprise
 ✅  - enlver marche nordique et prestation ( refassaunage )
-⚠️  - Faconner le menu
+✅  - Faconner le menu
 
 
 Refaire les nouvelles page :
@@ -29,5 +29,5 @@ Page contacter moi :
 
 
 Refaire contenu :
-❌  - du referencement
-❌  - et parler des etabliseement specialiser 
+✅  - du referencement
+✅  - et parler des etabliseement specialiser 
