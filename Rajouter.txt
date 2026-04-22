@@ -17,15 +17,15 @@ Changer le menu :
 ✅  - activiter physique en etablissement specialiser 
 ✅  - sport en entreprise
 ✅  - enlver marche nordique et prestation ( refassaunage )
-❌  - Faconner le menu
+⚠️  - Faconner le menu
 
 
 Refaire les nouvelles page :
-❌  - voir mail sur le word
+✅  - voir mail sur le word
 
 
 Page contacter moi :
-❌  - carte andernos
+✅  - carte andernos
 
 
 Refaire contenu :
